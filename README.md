@@ -5,20 +5,16 @@ This README outlines the steps required to develop, test, and deploy an iOS app 
 
 ---
 
-## **1. Choose a Development Approach**
-### Option 1: Cross-Platform Development (No Xcode Required for Coding)
+## **1. 
+###: Cross-Platform Development (No Xcode Required for Coding)
 - **React Native (Expo) – JavaScript/TypeScript**
 - **Flutter – Dart**
 - **Unity – C# (For Games)**
 
-### Option 2: Web-Based Apps (Progressive Web Apps - PWA)
-- **HTML, CSS, JavaScript (React, Vue, or Angular)**
-- Hosted on **Netlify, Vercel, or Firebase**
 
----
 
-## **2. Set Up Your Development Environment**
-### **If Using React Native (Expo):**
+## **2. Set Up Development Environment**
+### **If Use React Native for backend (Expo):**
 1. Install Node.js: [Download](https://nodejs.org/)
 2. Install Expo CLI:
    ```sh
@@ -34,7 +30,7 @@ This README outlines the steps required to develop, test, and deploy an iOS app 
    ```
 5. Use **Expo Go** app to test on an iPhone.
 
-### **If Using Flutter:**
+### **Using Flutter for frontend:**
 1. Install Flutter SDK: [Download](https://flutter.dev/docs/get-started/install)
 2. Create a Flutter project:
    ```sh

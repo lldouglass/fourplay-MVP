@@ -1,5 +1,5 @@
 # fourplay-MVP
-# Getting Started with Your iOS App
+# Getting Started with our iOS App
 
 This README outlines the steps required to develop, test, and deploy an iOS app without directly using Xcode on a Mac.
 

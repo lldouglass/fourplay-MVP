@@ -1,4 +1,5 @@
 ⏳ Timeline for MVP
+
 ✅ Day 1-3: Backend (FastAPI + Supabase)
 
 ✅ Day 4-6: Frontend UI (React + Tailwind)
@@ -13,6 +14,7 @@
 
 
 🔥 TL;DR: Where to Start?
+
 1️⃣ Set up Supabase for authentication & database
 
 2️⃣ Build FastAPI backend with profile matching
